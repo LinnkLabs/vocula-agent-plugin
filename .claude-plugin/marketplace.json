@@ -1,0 +1,16 @@
+{
+  "name": "vocula",
+  "owner": { "name": "Vocula", "url": "https://vocula.ai" },
+  "metadata": { "description": "Vocula for coding agents: the voice track for the video you are building." },
+  "plugins": [
+    {
+      "name": "vocula",
+      "source": "./claude",
+      "description": "Voiceover, narration fitted to a cut, and full soundtracks (voices, sound effects, music) for the videos your agent builds — delivered as files with word timings, captions and placement.",
+      "category": "productivity",
+      "homepage": "https://vocula.ai",
+      "author": { "name": "Vocula", "url": "https://vocula.ai" },
+      "keywords": ["vocula", "voiceover", "narration", "voice", "tts", "captions", "soundtrack", "hyperframes", "remotion", "video"]
+    }
+  ]
+}

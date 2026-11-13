@@ -1,0 +1,15 @@
+{
+  "name": "vocula",
+  "version": "0.1.0",
+  "description": "The voice track for the video your agent is building: voiceover with word timings, narration fitted to a cut, full soundtracks. One command, one JSON line.",
+  "license": "MIT",
+  "author": "LinnkLabs (https://vocula.ai)",
+  "type": "module",
+  "bin": { "vocula": "vocula.mjs" },
+  "files": ["vocula.mjs", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "homepage": "https://vocula.ai/agents",
+  "repository": { "type": "git", "url": "git+https://github.com/LinnkLabs/vocula-agent-plugin.git", "directory": "cli" },
+  "bugs": { "url": "https://github.com/LinnkLabs/vocula-agent-plugin/issues" },
+  "keywords": ["vocula", "voiceover", "narration", "tts", "captions", "hyperframes", "remotion", "claude-code", "codex", "agent"]
+}
